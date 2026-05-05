@@ -191,7 +191,7 @@ header {
 }
 
 .menu-toggle {
-  display: flex;
+  display: none;
   font-size: 1.5rem;
   cursor: pointer;
   position: absolute;
